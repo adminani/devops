@@ -1,3 +1,5 @@
 devops is a tool
 devops is a automation
 devops is a easy to learn
+devops has a several tools
+devops makes automate the tools
